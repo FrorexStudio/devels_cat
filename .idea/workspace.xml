@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a3350ce7-da1a-45e0-9617-acf05ebc27fd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/web/themes/custom/ellinight/config/install/THEMENAME.settings.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/themes/custom/ellinight/config/schema/THEMENAME.schema.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/themes/custom/ellinight/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/themes/custom/ellinight/ellinight.info.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/themes/custom/ellinight/ellinight.libraries.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/themes/custom/ellinight/ellinight.theme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/themes/custom/ellinight/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/themes/custom/ellinight/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/themes/custom/ellinight/screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/themes/custom/ellinight/src/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/themes/custom/ellinight/templates/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/bootstrap_barrio.breakpoints.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/bootstrap_barrio.info.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/bootstrap_barrio.layouts.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/bootstrap_barrio.libraries.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/bootstrap_barrio.theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/config/install/bootstrap_barrio.settings.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/config/schema/bootstrap_barrio.schema.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/colors/messages/messages-dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/colors/messages/messages-gray.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/colors/messages/messages-light.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/colors/messages/messages-white.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/affix.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/alerts.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/book-navigation.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/book.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/bootstrap-icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/breadcrumb.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/comments.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/commerce.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/contextual.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/details.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/dropbutton.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/dropbutton.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/feed-icon.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/field.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/file.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/form.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/forum.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/header.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/help.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/icons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/image-button.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/image-widget.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/img-fluid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/indented.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/item-list.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/list-group.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/navigation.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/node-preview.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/node.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/page.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/progress.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/search-form.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/shortcut.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/sidebar-collapse.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/sidebar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/site-footer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/skip-link.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/slide-nav.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/table.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/tabledrag.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/tableselect.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/tablesort-indicator.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/tablesort.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/tabs-full.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/tabs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/textarea.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/toolbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/ui-dialog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/ui.widget.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/user.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/vertical-tabs.component.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/vertical-tabs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/components/views.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/maintenance-page.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/css/print.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/fonts/alegreya_roboto.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/fonts/amatic_josefin.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/fonts/coustard_leckerli.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/fonts/dancing_garamond.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/fonts/dosis_opensans.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/fonts/fjalla_cantarell.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/fonts/lato_hotel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/fonts/medula_abel.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/fonts/monserrat_lato.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/fonts/oswald_droid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/fonts/philosopher_muli.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/fonts/playfair_alice.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/fonts/roboto.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/fonts/vollkorn_exo.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/images/add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/images/feed.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/images/help.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/images/icons/application-octet-stream.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/images/icons/application-pdf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/images/icons/application-x-executable.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/images/icons/audio-x-generic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/images/icons/forum-icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/images/icons/image-x-generic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/images/icons/package-x-generic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/images/icons/text-html.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/images/icons/text-plain.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/images/icons/text-x-generic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/images/icons/text-x-script.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/images/icons/video-x-generic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/images/icons/x-office-document.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/images/icons/x-office-presentation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/images/icons/x-office-spreadsheet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/images/required.svg" beforeDir="false" afterPath="$PROJECT_DIR$/web/themes/custom/ellinight/images/required.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/images/tabs-border.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/js/affix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/js/barrio.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/js/modules/views/ajax_view.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/js/sidebar-collapse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/js/toast.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/layouts/bootstrap-media.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/layouts/card-3stack.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/layouts/card-basic.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/layouts/card-header-footer.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/layouts/card-horizontal.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/layouts/card-image-overlay.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/layouts/card-top-image.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/layouts/col2-3-9.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/layouts/col2-9-3.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/layouts/col2-equal.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/layouts/col3-equal.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/layouts/col4-equal.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scripts/create_subtheme.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/barrio.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/affix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/alerts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/book-navigation.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/book.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/breadcrumb.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/comments.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/commerce.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/contextual.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/details.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/dropbutton.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/dropbutton.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/feed-icon.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/field.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/file.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/form.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/help.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/icons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/image-button.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/indented.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/item-list.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/node-preview.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/node.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/page.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/progress.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/search-form.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/shortcut.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/sidebar-collapse.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/sidebar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/site-footer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/skip-link.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/table.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/tabledrag.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/tableselect.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/tablesort-indicator.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/tablesort.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/tabs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/textarea.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/ui-dialog.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/ui-widget.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/user.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/vertical-tabs.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/vertical-tabs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/scss/components/views.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/subtheme/_bootstrap_barrio_subtheme.theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/subtheme/bootstrap_barrio_subtheme.info.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/subtheme/bootstrap_barrio_subtheme.libraries.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/subtheme/color/color.inc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/subtheme/color/preview.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/subtheme/color/preview.es6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/subtheme/color/preview.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/subtheme/color/preview.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/subtheme/config/install/bootstrap_barrio_subtheme.settings.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/subtheme/config/schema/bootstrap_barrio_subtheme.schema.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/subtheme/css/colors.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/subtheme/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/subtheme/js/global.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/subtheme/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/subtheme/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/subtheme/templates/_page.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/block/block--breadcrumb.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/block/block--card.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/block/block--local-actions-block.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/block/block--local-tasks-block.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/block/block--search-form-block.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/block/block--system-branding-block.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/block/block--system-menu-block.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/block/block.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/block/form--search-block-form.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/commerce/address/address-plain.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/commerce/cart/commerce-cart-block.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/commerce/cart/commerce-cart-empty-page.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/commerce/checkout/commerce-checkout-completion-message.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/commerce/checkout/commerce-checkout-completion-register.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/commerce/checkout/commerce-checkout-form--with-sidebar.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/commerce/checkout/commerce-checkout-form.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/commerce/checkout/commerce-checkout-order-summary.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/commerce/checkout/commerce-checkout-pane.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/commerce/checkout/commerce-checkout-progress.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/commerce/commerce-cart-flyout/commerce-cart-flyout-add-to-cart-attributes-radios.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/commerce/commerce-cart-flyout/commerce-cart-flyout-add-to-cart-attributes-rendered.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/commerce/commerce-cart-flyout/commerce-cart-flyout-add-to-cart-attributes-select.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/commerce/commerce-cart-flyout/commerce-cart-flyout-add-to-cart-button.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/commerce/commerce-cart-flyout/commerce-cart-flyout-add-to-cart-variation-select.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/commerce/commerce-cart-flyout/commerce-cart-flyout-block-icon.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/commerce/commerce-cart-flyout/commerce-cart-flyout-block.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/commerce/commerce-cart-flyout/commerce-cart-flyout-offcanvas-contents-items.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/commerce/commerce-cart-flyout/commerce-cart-flyout-offcanvas-contents.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/commerce/commerce-cart-flyout/commerce-cart-flyout-offcanvas.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/commerce/order/commerce-order--admin.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/commerce/order/commerce-order--user.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/commerce/order/commerce-order-add-list.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/commerce/order/commerce-order-edit-form.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/commerce/order/commerce-order-receipt.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/commerce/order/commerce-order-total-summary.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/commerce/order/commerce-order.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/commerce/payment/commerce-payment-method--credit-card.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/commerce/payment/commerce-payment-method.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/commerce/price/commerce-price-plain.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/commerce/products/_commerce-product.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/commerce/products/commerce-product-attribute-value.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/commerce/products/commerce-product-form.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/commerce/products/commerce-product-variation.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/commerce/promotion/commerce-coupon-redemption-form.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/commerce/promotion/commerce-promotion-form.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/commerce/promotion/commerce-promotion.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/commerce/store/commerce-store.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/content-edit/file-managed-file.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/content-edit/file-upload-help.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/content-edit/file-widget-multiple.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/content-edit/file-widget.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/content-edit/filter-caption.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/content-edit/filter-guidelines.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/content-edit/filter-tips.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/content-edit/image-widget.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/content-edit/node-add-list.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/content-edit/node-edit-form.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/content-edit/text-format-wrapper.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/content/aggregator-item.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/content/book-node-export-html.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/content/comment.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/content/links--node.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/content/mark.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/content/node.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/content/page-title.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/content/search-result.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/content/taxonomy-term.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/dataset/aggregator-feed.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/dataset/forum-icon.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/dataset/forum-list.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/dataset/forums.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/dataset/item-list--search-results.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/dataset/item-list.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/dataset/table.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/field/field--comment.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/field/field--node--created.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/field/field--node--field-tags.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/field/field--node--title.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/field/field--node--uid.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/field/field--text-long.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/field/field--text-with-summary.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/field/field--text.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/field/field.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/field/file-link.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/field/image-formatter.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/field/image-style.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/field/image.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/field/link-formatter-link-separate.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/field/time.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/form/checkboxes.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/form/confirm-form.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/form/container.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/form/datetime-form.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/form/datetime-wrapper.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/form/details.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/form/dropbutton-wrapper.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/form/field-multiple-value-form.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/form/fieldset.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/form/file-managed-file.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/form/form-element-label.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/form/form-element.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/form/form.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/form/input--submit-button.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/form/input.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/form/radios.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/form/select.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/form/textarea.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/layout/book-export-html.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/layout/html.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/layout/maintenance-page.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/layout/page.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/layout/region--nowrap.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/layout/region.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/misc/progress-bar.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/misc/rdf-metadata.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/misc/status-messages--alerts.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/misc/status-messages--toasts.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/misc/status-messages.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/navigation/book-all-books-block.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/navigation/book-navigation.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/navigation/book-tree.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/navigation/breadcrumb.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/navigation/links--inline.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/navigation/links--language-block.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/navigation/links.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/navigation/menu--account.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/navigation/menu--footer.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/navigation/menu--main.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/navigation/menu-local-action.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/navigation/menu-local-task.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/navigation/menu-local-tasks.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/navigation/menu.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/navigation/pager.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/navigation/toolbar.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/navigation/vertical-tabs.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/user/forum-submitted.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/user/user.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/user/username.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/views/views-exposed-form.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/views/views-mini-pager.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/views/views-view--card.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/views/views-view-grid.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/views/views-view-grouping.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/views/views-view-list.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/views/views-view-mapping-test.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/views/views-view-opml.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/views/views-view-row-opml.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/views/views-view-row-rss.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/views/views-view-rss.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/views/views-view-summary-unformatted.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/views/views-view-summary.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/views/views-view-table.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/views/views-view-unformatted--card.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/views/views-view-unformatted.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/templates/views/views-view.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/tests/src/Functional/BootstrapBarrioSubThemeTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/tests/src/Functional/BootstrapBarrioTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_barrio/theme-settings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/b4.gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/b4.package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/bootstrap_sass.info.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/bootstrap_sass.libraries.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/bootstrap_sass.theme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/config/install/bootstrap_sass.settings.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/config/schema/bootstrap_sass.schema.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/images/add.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/images/feed.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/images/help.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/images/icons/application-octet-stream.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/images/icons/application-pdf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/images/icons/application-x-executable.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/images/icons/audio-x-generic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/images/icons/forum-icons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/images/icons/image-x-generic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/images/icons/package-x-generic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/images/icons/text-html.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/images/icons/text-plain.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/images/icons/text-x-generic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/images/icons/text-x-script.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/images/icons/video-x-generic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/images/icons/x-office-document.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/images/icons/x-office-presentation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/images/icons/x-office-spreadsheet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/images/required.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/images/tabs-border.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/js/barrio.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/js/custom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/js/popper.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/scripts/create_subtheme.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/scss/import.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/scss/mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/scss/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/scss/typography.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/scss/variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/templates/block--system-branding-block.html.twig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/themes/contrib/bootstrap_sass/templates/file-link.html.twig" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="DrupalConfiguration" enabled="true" version="9">
+    <drupalPath>$PROJECT_DIR$/web</drupalPath>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/drupal/core-composer-scaffold" />
+      <path value="$PROJECT_DIR$/vendor/drupal/core-project-message" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-feed" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-escaper" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-stdlib" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-diactoros" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/psr-http-message-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/reflection" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/pear/console_getopt" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/pear/archive_tar" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/serializer" />
+      <path value="$PROJECT_DIR$/vendor/pear/pear_exception" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/pear/pear-core-minimal" />
+      <path value="$PROJECT_DIR$/vendor/typo3/phar-stream-wrapper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/symfony-cmf/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/stack/builder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/vendor/symfony/validator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/masterminds/html5" />
+      <path value="$PROJECT_DIR$/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="23YWnUWb4E4OIjcx5uhpHA97VuK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/themes/custom" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web/themes/custom" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ComposerRunConfigurationType" factoryName="Composer Script">
+      <option name="pathToComposerJson" value="$PROJECT_DIR$/composer.json" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a3350ce7-da1a-45e0-9617-acf05ebc27fd" name="Changes" comment="" />
+      <created>1641911667958</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641911667958</updated>
+      <workItem from="1641911669371" duration="5216000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
