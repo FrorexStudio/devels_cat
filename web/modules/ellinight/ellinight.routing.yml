@@ -1,0 +1,7 @@
+ellinight.article_list:
+  path: '/ellinight/cats'
+  defaults:
+    _controller: '\Drupal\ellinight\Controller\ArticleController::page'
+    _title: 'Our custom Article list'
+  requirements:
+    _permission: 'access content'
